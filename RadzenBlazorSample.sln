@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.13.35723.152
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RadzenBlazorSample.Client", "RadzenBlazorSample.Client\RadzenBlazorSample.Client.csproj", "{88BB95C3-F49E-C07D-709E-73C033B763B9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RadzenBlazorSample", "RadzenBlazorSample\RadzenBlazorSample.csproj", "{CEFBBFE6-D65B-79A1-9F2E-EE16D91969C1}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{88BB95C3-F49E-C07D-709E-73C033B763B9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{88BB95C3-F49E-C07D-709E-73C033B763B9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{88BB95C3-F49E-C07D-709E-73C033B763B9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{88BB95C3-F49E-C07D-709E-73C033B763B9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CEFBBFE6-D65B-79A1-9F2E-EE16D91969C1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CEFBBFE6-D65B-79A1-9F2E-EE16D91969C1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CEFBBFE6-D65B-79A1-9F2E-EE16D91969C1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CEFBBFE6-D65B-79A1-9F2E-EE16D91969C1}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F3D31621-1CAB-4618-98D5-759C3E90EA95}
+	EndGlobalSection
+EndGlobal
